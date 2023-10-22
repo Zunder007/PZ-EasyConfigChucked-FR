@@ -1,0 +1,8 @@
+UI_FR = {
+
+    UI_NotHostNotAdminAccessDenied = "Les options de ce mod ne sont accessibles que par un administrateur ou l'hôte.",
+    UI_InGameAccessOnly = "Les options de ce mod ne sont accessibles qu'à partir du menu d'options du jeu..",
+    UI_MainMenuAccessOnly1 = "Ce mod a des options accessibles uniquement à partir des options du menu principal.",
+    UI_MainMenuAccessOnly2 = "Remarque : assurez-vous d'activer ce mod depuis le menu principal pour afficher les options.",
+
+}
